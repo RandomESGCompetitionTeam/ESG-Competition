@@ -1,3 +1,11 @@
+#Folders & files
+data
+env
+*.idea
+*.ipynb_checkpoints
+*intrinio_api_key.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
